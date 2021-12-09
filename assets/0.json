@@ -1,0 +1,19 @@
+{
+    "name": "Sequence",
+    "symbol": "SEQ",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JB4bfJMmqSHoodpVWpa7hPCqv5Rxbzh2NKSeoDPwcAzC",
+          "share": 100
+        }
+      ]
+    }
+  }
